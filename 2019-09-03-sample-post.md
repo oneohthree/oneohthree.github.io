@@ -2,6 +2,8 @@
 title:  "Sample post"
 ---
 
+## {{post.title}}
+
 ```bash
 LOCK="/var/run/rsync.lock"
  
