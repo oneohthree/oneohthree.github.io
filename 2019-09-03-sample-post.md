@@ -2,7 +2,7 @@
 title:  "Sample post"
 ---
 
-```Bash
+```bash
 LOCK="/var/run/rsync.lock"
  
 if [ ! -e $LOCK ]; then
